@@ -11,6 +11,8 @@ namespace GitHub_HelloWorld
         static void Main(string[] args)
         {
             string tekst = "ik ben tarik";
+            Console.WriteLine("nee ik ben jordy");
+            Console.ReadLine();
         }
     }
 }
