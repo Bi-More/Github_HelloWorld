@@ -10,6 +10,7 @@ namespace GitHub_HelloWorld
     {
         static void Main(string[] args)
         {
+            string tekst = "ik ben tarik";
         }
     }
 }
