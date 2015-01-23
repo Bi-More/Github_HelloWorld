@@ -12,6 +12,7 @@ namespace GitHub_HelloWorld
         {
             string tekst = "ik ben tarik";
             Console.WriteLine("nee ik ben jordy");
+            Console.WriteLine("Ik ben morgen jarig.");
             Console.ReadLine();
         }
     }
